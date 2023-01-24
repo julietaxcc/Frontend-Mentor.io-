@@ -30,7 +30,7 @@ body {
     text-align: center;
     margin: 80px 60px 80px 60px;
     padding: 1rem;
-    border-radius: 1.5rem;
+    border-radius: 1.2rem;
     height: 495px;
     width: 350px;
 }
@@ -60,7 +60,7 @@ p {
     font-weight: 400;
     font-size: 15px;
     margin: 0;
-    padding: 1rem 1rem 0 1rem;
+    padding: 1rem 1.5rem 0 1rem;
     text-align: center;
 }
 footer {
